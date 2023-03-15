@@ -1,4 +1,4 @@
-<# Bilkent Mathematical Society Website
+# Bilkent Mathematical Society Website
 
 Welcome to the GitHub repository for the Bilkent Mathematical Society Website! This project is designed to create a dynamic and user-friendly website for the mathematical society at Bilkent University.
 
