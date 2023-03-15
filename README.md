@@ -1,14 +1,13 @@
-# Bilkent Mathematical Society Website
+<# Bilkent Mathematical Society Website
 
 Welcome to the GitHub repository for the Bilkent Mathematical Society Website! This project is designed to create a dynamic and user-friendly website for the mathematical society at Bilkent University.
 
 ## Installation
 
-1. Clone this repository to your local machine using `git clone https://github.com/username/bilkent-math-society.git`
+1. Clone this repository to your local machine using `git clone https://github.com/farukbeygo/MathematicalSocietyWebsite/tree/main`
 2. Create a virtual environment for the project using `python3 -m venv env`
 3. Activate the virtual environment using `source env/bin/activate`
-4. Install the required packages using `pip install -r requirements.txt`
-5. Run the Django development server using `python manage.py runserver`
+4. Run the Django development server using `python manage.py runserver`
 
 ## Usage
 
